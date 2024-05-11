@@ -5,4 +5,6 @@ Designed an intuitive and user-friendly interface, ensuring a smooth and hassle-
 # Working Model
 ![1](https://github.com/wimintech/LISTIFY/assets/99642867/ca000b8c-250b-4460-841c-ea4e98a8bd65)
 
+![3](https://github.com/wimintech/LISTIFY/assets/99642867/186d32d5-aacf-404e-98bf-2d56eebf749a)
+
 
